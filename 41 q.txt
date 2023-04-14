@@ -1,0 +1,65 @@
+Let the number of Aircraft, BMW and Audi bought by Mahendra Rajapaksa be x, y and z respectively
+According to question:
+ 
+ x + y + z = 15 …..(i)
+ 
+8x + 3y + 4z = 68 ….. (ii)
+ 
+From (ii) – (i) ×4, we get
+ 
+4x – y = 8 ……. (iii)
+ 
+From (iii),
+ 
+When y = 0 then x = 2 
+ 
+So, z = (15 – 2 – 0) = 13 (from (i))
+ 
+The other solutions are obtained by adding 1 repeatedly to x
+ 
+When x = 3, y = 4 (from (iii))
+ 
+So, z = (15 – 3 – 4) = 8
+ 
+When x = 4, y = 8 (from (iii))
+ 
+So, z = (15 – 4 – 8) = 3
+ 
+When x = 5, y = 12
+ 
+So, z = (15 – 5 – 12) = – 2 (which is not possible)
+ 
+Now, calculated results are given in following table
+ 
+X	2	3	4
+Y	0	4	8
+Z	13	8	3
+
+Since he bought at least one of each thing and more BMW than Audi,
+ 
+So, third column of above table is fulfilling the required condition.
+ 
+Thus, he bought 4 Aircrafts, 8 BMWs and 3 Audis.
+ 
+Hence number of Aircraft = 4
+.................................................................
+Radius of the circle = x cm, diameter of the circle = 2x cm
+
+2x – x = 10.5
+
+x = 10.5 cm
+
+Side of the square = 10.5 × 2 = 21 cm
+
+Area of the square = side2
+
+= 212 = 441
+
+Area of the circle = π r2
+
+= 	22	 × 10.5 × 10.5 = 346.5 cm
+7
+Ratio = 441 : 346.5
+
+= 14 : 11
+...........................................
